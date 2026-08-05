@@ -107,7 +107,3 @@ Production-ready full-stack platform for managing merchant payments and automati
 </p>
 
 ---
-
-<p align="center">
-⭐ Thanks for visiting my profile!
-</p>
