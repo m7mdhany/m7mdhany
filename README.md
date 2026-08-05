@@ -54,15 +54,25 @@
 
 ## 🚀 Featured Projects
 
-### 💰 Fund Collection System
+### 💰 Fund Collection Platform *(Fintech — ITI Graduation Project)*
 
-Full Stack MERN Application
+A production-ready full-stack platform for managing merchant payments and automating commission calculations.
 
-**Tech:** React • Node.js • Express • MongoDB
+**Tech:** React.js · Node.js · Express · MongoDB · Tailwind CSS
 
-🔗 Demo: https://
+- ✅ RESTful API with secure authentication
+- ✅ Real-time transaction monitoring
+- ✅ Multi-collection MongoDB schema
 
-📂 Repo: https://github.com/USERNAME/project
+<p>
+  <a href="https://your-demo.vercel.app">
+    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+  </a>
+
+  <a href="https://github.com/USERNAME/fund-collection-platform">
+    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
 ---
 
