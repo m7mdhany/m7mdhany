@@ -52,7 +52,7 @@
 
 # 🚀 Featured Projects
 
-## 💰 Fund Collection Platform *(Fintech — ITI Graduation Project)*
+## 💰 Fund Collection Platform *(Fintech — ITI Graduation TEAM Project)*
 
 Production-ready full-stack platform for managing merchant payments and automating commission calculations.
 
