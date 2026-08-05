@@ -4,12 +4,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=Full+Stack+MERN+Developer;React+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Applications;Open+To+Work+🚀" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/Saidelamy">
-    <img src="https://komarev.com/ghpvc/?username=Saidelamy&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-  </a>
-</p>
-
 ---
 
 # 👨‍💻 About Me
