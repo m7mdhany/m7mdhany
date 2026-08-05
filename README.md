@@ -64,13 +64,15 @@ A production-ready full-stack platform for managing merchant payments and automa
 - ✅ Real-time transaction monitoring
 - ✅ Multi-collection MongoDB schema
 
+### 🔗 Repositories
+
 <p>
-  <a href="https://your-demo.vercel.app">
-    <img src="https://img.shields.io/badge/Live_Demo-00C853?style=for-the-badge&logo=vercel&logoColor=white">
+  <a href="https://github.com/USERNAME/fund-collection-frontend">
+    <img src="[https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://github.com/Saidelamy/graduation_project_iti)"/>
   </a>
 
-  <a href="https://github.com/USERNAME/fund-collection-platform">
-    <img src="https://img.shields.io/badge/GitHub_Repo-181717?style=for-the-badge&logo=github&logoColor=white">
+  <a href="https://github.com/USERNAME/fund-collection-backend">
+    <img src="[https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white](https://github.com/Saidelamy/graduation_project_iti_backend)"/>
   </a>
 </p>
 
