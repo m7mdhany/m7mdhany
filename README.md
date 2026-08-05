@@ -68,11 +68,11 @@ A production-ready full-stack platform for managing merchant payments and automa
 
 <p>
   <a href="https://github.com/Saidelamy/graduation_project_iti">
-    <img src="[https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black](https://github.com/Saidelamy/graduation_project_iti)"/>
+    <img src="https://img.shields.io/badge/Frontend-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
   </a>
 
   <a href="https://github.com/Saidelamy/graduation_project_iti_backend">
-    <img src="[https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white](https://github.com/Saidelamy/graduation_project_iti_backend)"/>
+    <img src="https://img.shields.io/badge/Backend-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
   </a>
 </p>
 
